@@ -1,0 +1,2 @@
+[24-May-2011 21:31:40] PHP Fatal error:  Call to undefined function get_option() in /home/internet/public_html/welcome/mu-plugin-wpsearch/wp-search-mu/wpSearch.php on line 326
+[24-May-2011 21:31:49] PHP Fatal error:  Call to undefined function get_option() in /home/internet/public_html/welcome/mu-plugin-wpsearch/wp-search-mu/wpSearch.php on line 326
